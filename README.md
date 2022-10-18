@@ -3,11 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poaqua&label=Profile%20views&color=0e75b6&style=flat" alt="poaqua" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Bootstrap**
+- 🌱 I’m currently learning **Javascript, Bootstrap**
 
 - 👨‍💻 All of my projects are available at [poaqua.xyz](poaqua.xyz)
 
+- 💬 Ask me about **HTML5, CSS3**
+
 - 📫 How to reach me **emirylmz344@gmail.com**
+
+- ⚡ Fun fact **I am a funny guy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
